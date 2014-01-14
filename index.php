@@ -15,7 +15,7 @@ if (!isset($_GET["wv"]) || empty($_GET["wv"])) {
 	<title>AZ Desktop</title>
 	<link rel='stylesheet' href='css/style.css' type='text/css' />
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="js/jquery.scrollbox.js"></script>
+	<script src="js/jquery.dynascroll.js"></script>
 	<script type="text/javascript" src="http://cdn-contentviewer.adobe.com/public/pepper/wvel/2/WVEmbed.min.js"></script>
 	</head>
 <body>
